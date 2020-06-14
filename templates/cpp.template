@@ -1,16 +1,14 @@
-/**
- * @author      : {{NAME}} ({{EMAIL}})
- * @file        : {{FILE}}
- * @created     : {{TIMESTAMP}}
- */
+//
+// @author      : {{NAME}} ({{EMAIL}})
+// @file        : {{FILE}}
+// @created     : {{TIMESTAMP}}
+//
 
-#include "{{FILE}}.h"
+#include <iostream>
 
-{{CLASS}}::{{CLASS}}()
+int main(int argc, char const* argv[])
 {
-    {{CURSOR}}
-}
-
-{{CLASS}}::~{{CLASS}}()
-{
-}
+  {{CURSOR}}
+  std::cout << "hello, world!" << std::endl;
+  return 0;
+} // main

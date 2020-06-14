@@ -1,7 +1,11 @@
-/**
- * @author      : {{NAME}} ({{EMAIL}})
- * @file        : {{FILE}}
- * @created     : {{TIMESTAMP}}
- */
+//
+// @author      : {{NAME}} ({{EMAIL}})
+// @file        : {{FILE}}
+// @created     : {{TIMESTAMP}}
+//
 
-#include "{{FILE}}.h"
+int main(int argc, char const* argv[])
+{
+  {{CURSOR}}
+  return 0;
+} // main
